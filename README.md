@@ -86,3 +86,5 @@ pyplot.legend()
 ## RESULT:
 
 Thus the python program performed binary classification successfully.
+
+
